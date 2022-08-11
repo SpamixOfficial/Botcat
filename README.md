@@ -3,7 +3,7 @@ Let me present to you.....
 The one and only....
 "Botcat.click!"
 
-This little project is written in some bash and some shell, and will work on most linux systems. This project was especially made for Raspberry Pi OS (formerly Raspbian), but as stated before, it should work for most linux distros (no guarantee it will :C).
+This little project is written in some bash and some shell, and will work on most linux systems. This project was especially made for Raspberry Pi OS (formerly Raspbian), but as stated before, it should work for most linux distros (no guarantee it will).
 
 soooooooo, with that little introduction, here is the installation process!
 
