@@ -8,14 +8,20 @@ This little project is written in shell, and will work on most linux systems. Th
 soooooooo, with that little introduction, here is the installation process!
 
 ## Installation :D
-
 Step 1:
+  Make sure you have "xdotool" installed! If it isnt installed, just use:
+  ```
+  sudo apt-get -y install xdotool
+  ```
+  (or what works for your distro!)
+
+Step 2:
   Clone the git repository:
   ``` 
   git clone https://github.com/SpamixOfficial/Botcat.git
   ```
 
-Step 2:
+Step 3:
   Make them all executable (if needed):
   ```
   chmod +x "filename"
