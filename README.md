@@ -2,6 +2,7 @@
 Let me present to you.....
 The one and only....
 "Botcat.click!"
+(its a popcat.click bot :D)
 
 This little project is written in shell, and will work on most linux systems. This project was especially made for Raspberry Pi OS (formerly Raspbian), but as stated before, it should work for most linux distros (no guarantee).
 
